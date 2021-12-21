@@ -1,5 +1,0 @@
-1.Input 2 numbers and multiple show answer's using express
-
-2.get Weather Celsius and Temp from Weather API's
-
-2.Send User MAil,Name,LastName to champApi 
